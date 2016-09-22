@@ -69,6 +69,7 @@ Just configure the values of variable in the file and call it like below
     sh Ipa2BrandedIpa.sh
     
 ***Branding using Jenkins***
+
 We can effectively re-use the shell script here in jenkins
 
 1.You have to parameterise all the variables in shell script in jenkins using ***Add Parameter***... like in the below screenshot I have done for one variable like that you have to do it for all others 
