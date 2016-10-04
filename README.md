@@ -116,6 +116,10 @@ We can effectively re-use the shell script here in jenkins
    The moment you install you'll see UUID.mobileprovision in `~/Library/MobileDevice/Provisioning Profiles/`
   
    This UUID is the value inside mobile provision that means the provisioning profile is installed.
+   
+Reference:
+http://stackoverflow.com/questions/38371448/multibranding-the-same-source-code-without-using-xcode
+http://stackoverflow.com/questions/36318336/xcodebuild-is-not-compiling-the-project-unless-it-is-opened-using-xcode-atleast
 
 
 
